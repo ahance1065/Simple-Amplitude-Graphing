@@ -37,4 +37,4 @@ I am still relatively new to coding. I am working on creating a version with a f
    ```sh
    jupyter notebook
 ## Contributors
-This is an independent coding project created by Austin Hance (ahance1065). Feel free to reach out to me for anything. 🚀
+This is just a fun independent coding project created by **Austin Hance** (ahance1065). Feel free to reach out to me for anything.
