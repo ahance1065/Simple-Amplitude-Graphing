@@ -15,7 +15,7 @@ I am still in the process of learning to code proficiently. With that in mind, I
 3. **Audio Preprocessing**: Removes leading and trailing silence with `librosa.effects.trim()`.
 
 ### Technology Used
-1. Python 🐍🐍🐍🐍🐍
+1. Python 🐍
 2. Librosa (for audio analysis)
 3. Matplotlib & Seaborn (for visualization)
 4. NumPy & Pandas (for data manipulation)
