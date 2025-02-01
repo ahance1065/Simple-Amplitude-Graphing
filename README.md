@@ -22,6 +22,9 @@ I am still relatively new to coding. I am working on creating a version with a f
 4. NumPy & Pandas (for data manipulation)
 5. Jupyter Notebook
 
+### Example of Graph
+![image](https://github.com/user-attachments/assets/ee042166-be25-4fdb-91cb-1ec1e53382e0)
+
 ## Getting Started
 1. Clone the repository: git clone https://github.com/yourusername/audio-waveform-analysis.git
 2. Install dependencies (or use Kaggle): pip install librosa numpy pandas seaborn matplotlib
