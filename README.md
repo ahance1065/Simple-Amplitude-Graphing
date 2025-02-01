@@ -4,7 +4,7 @@ This simple waveform graph can be used to visualize the amplitude (dB) changes o
 
 ## Purpose
 By visualizing the waveforms of different audio samples on a graph like this, anyone can compare instrumental elements and refine their sound production. For example, if you want to re-create the drums from scratch, you can download the drum audio file from an instrument extractor, and then import the file here to compare the waveforms to your drum samples (The pitch may still need tweaking, but you can get close).
-(Today, most DAWs/Editors have these waveforms graphs, but if you want to take a picture to share it with someone, this might be easier)
+### (Today, most DAWs/Editors have these waveforms graphs, but if you want to take a picture to share it with someone, this might be easier)
 
 ## Project Status
 I am still relatively new to coding. I am working on creating a version with a file upload button, but this current one I did through Kaggle's database/input feature.
