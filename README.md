@@ -1,4 +1,4 @@
-# Simple-Amplitude-Graphing
+# Simple Amplitude Graphing
 
 This simple waveform graph can be used to visualize the amplitude (dB) changes over time or compare certain song features.
 
