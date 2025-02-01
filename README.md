@@ -26,9 +26,15 @@ I am still relatively new to coding. I am working on creating a version with a f
 ![image](https://github.com/user-attachments/assets/ee042166-be25-4fdb-91cb-1ec1e53382e0)
 
 ## Getting Started
-1. Clone the repository: git clone https://github.com/yourusername/audio-waveform-analysis.git
-2. Install dependencies (or use Kaggle): pip install librosa numpy pandas seaborn matplotlib
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/audio-waveform-analysis.git
+2. Install Dependencies (or use Kaggle)
+   ```sh
+   pip install librosa numpy pandas seaborn matplotlib
 3. Run the Jupyter Notebook
-
+   ```sh
+   jupyter notebook
 ## Contributors
 This is an independent coding project created by Austin Hance (ahance1065). Feel free to reach out to me for anything. 🚀
