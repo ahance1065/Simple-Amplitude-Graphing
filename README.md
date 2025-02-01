@@ -1,4 +1,4 @@
-## 🎵 Audio Amplitude Graphing
+## 🎵 Audio Amplitude Graphing 🎵 
 
 This simple waveform graph can be used to visualize the amplitude (dB) changes over time or compare certain song features.
 
@@ -9,14 +9,13 @@ By visualizing the waveforms of different audio samples on a graph like this, an
 ## Project Status
 I am still relatively new to coding. I am working on creating a version with a file upload button, but this current one I did through Kaggle's database/input feature.
 
-## How it Works
-1. Loads Audio Samples: The project uses librosa.load() to read and process .wav files.
-2. Waveform Visualization: Displays the waveform of each audio file using librosa.display.waveshow().
-3. Audio Preprocessing: Removes leading and trailing silence with librosa.effects.trim().
-4. Analysis: Enables comparison between different instrumental components for sound recreation.
+## How It Works
+1. **Load The Audio Sample(s)**: This project uses `librosa.load()` to read and process `.wav` files.
+2. **Waveform Visualization**: Displays the waveform of each audio file using `librosa.display.waveshow()`.
+3. **Audio Preprocessing**: Removes leading and trailing silence with `librosa.effects.trim()`.
 
 ### Technology Used
-1. Python 🐍
+1. Python 🐍🐍🐍🐍🐍
 2. Librosa (for audio analysis)
 3. Matplotlib & Seaborn (for visualization)
 4. NumPy & Pandas (for data manipulation)
