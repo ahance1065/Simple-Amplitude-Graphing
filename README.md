@@ -22,6 +22,7 @@ I am still relatively new to coding. I am working on creating a version with a f
 5. Jupyter Notebook
 
 ### Example of Graph
+This is a song that I produced and composed. The code provided has three different ones I made so you can see the different amplitude changes across genres. This also means that you will have to trim down the code if you want to just include one graph.
 ![image](https://github.com/user-attachments/assets/ee042166-be25-4fdb-91cb-1ec1e53382e0)
 
 ## Getting Started
