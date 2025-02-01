@@ -1,6 +1,6 @@
 ## 🎵 Audio Amplitude Graphing 🎵 
 
-This simple waveform graph can be used to visualize the amplitude (dB) changes over time or compare certain song features.
+This simple waveform graph can be used to visualize the amplitude (dB) changes over time or compare certain song features. If you want to listen to the example audio files that I show in this, you can find them on my Kaggle profile under Datasets: https://www.kaggle.com/austinhance
 
 ## Purpose
 By visualizing the waveforms of different audio samples on a graph like this, anyone can compare instrumental elements and refine their sound production. For example, if you want to re-create the drums from scratch, you can download the drum audio file from an instrument extractor, and then import the file here to compare the waveforms to your drum samples (The pitch may still need tweaking, but you can get close).
