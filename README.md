@@ -7,7 +7,7 @@ By visualizing the waveforms of different audio samples on a graph like this, an
 ### (Today, most DAWs/Editors have these waveforms graphs, but if you want to take a picture to share it with someone, this might be easier)
 
 ## Project Status
-I am still relatively new to coding. I am working on creating a version with a file upload button, but this current one I did through Kaggle's database/input feature.
+I am still in the process of learning to code proficiently. With that in mind, I am working on creating a version with a file upload button, but this current one I did through Kaggle's database/input feature.
 
 ## How It Works
 1. **Load The Audio Sample(s)**: This project uses `librosa.load()` to read and process `.wav` files.
